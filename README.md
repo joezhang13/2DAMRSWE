@@ -2,6 +2,8 @@
 This is a finite volume solver for 2D nonlinear shallow-water equations. 
 A two-level adaptivel mesh refinement (AMR) is used with a physics-based indicator. 
 The program runs in parallel under the Message Passing Interface (MPI).
+The report of this project can be found at:
+https://drive.google.com/file/d/18O7br3vqqR6iqZmpEcgfYDgKxafIp_a9/view?usp=sharing
 
 ## Dependencies
 gcc/8.2.0\
